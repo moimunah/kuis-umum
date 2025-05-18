@@ -8,7 +8,7 @@ quiz_data = [
         "answer": "Tokyo"
     },
     {
-        "question": "Ibukota negara Jepang adalah…",
+        "question": "Siapa penemu bola lampu pijar?",
         "choices": ["Alexander Graham Bell", "Nikola Tesla", "Thomas Alva Edison", "Albert Einstein"],
         "answer": "Thomas Alva Edison"
     },
